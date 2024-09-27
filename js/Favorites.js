@@ -1,4 +1,4 @@
-import { GithubUser } from "./GithubUser"
+import { GithubUser } from "./GithubUser.js"
 
 // classe que vai conter a lógica dos dados
 // como os dados serão estruturados
